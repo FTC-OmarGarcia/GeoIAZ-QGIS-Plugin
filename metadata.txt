@@ -1,0 +1,16 @@
+[general]
+name=GeoIAZ
+qgisMinimumVersion=3.22
+description=Abre, comprime y descomprime archivos .giz directamente en QGIS.
+version=1.0.6
+author=Ing. Omar García Madurell
+email=omar.garcia.ftc@gmail.com
+about=Plugin oficial de GeoIAZ para QGIS. Permite abrir proyectos cartográficos comprimidos en formato .giz sin necesidad de descomprimirlos manualmente. Incluye selección de capas y extracción inteligente.
+tracker=https://github.com/FTC-OmarGarcia/GeoIAZ-QGIS-Plugin/issues
+repository=https://github.com/FTC-OmarGarcia/GeoIAZ-QGIS-Plugin
+homepage=https://www.ftcsig-consultoria.com/
+tags=compression,cartography,gis,geopackage,shapefile,geotiff
+category=Plugins
+icon=icon.ico
+experimental=False
+deprecated=False
